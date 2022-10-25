@@ -1,6 +1,6 @@
 
 
-![Azure_DevOps_Utilities.png](Azure_DevOps_Utilities.png)
+![Azure_DevOps_Utility.png](Azure_DevOps_Utility.png)
 
 # azure-devops-utility
 Azure DevOps Utility is a dotnet console app which helps in doing listed operation on Azure DevOps Orgnization. 
